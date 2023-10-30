@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.APICalls" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.APICalls" parent="Base.Theme.APICalls" />
+    <style name="SoftCorners">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerRadius">21dp</item>
+    </style>
+</resources>
